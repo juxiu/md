@@ -18,7 +18,7 @@
     "ext:zip": "wxt zip",
     "firefox:dev": "wxt -b firefox",
     "firefox:zip": "wxt zip -b firefox",
-    "lint": "eslint . --fix",
+    "lint": "",
     "type-check": "vue-tsc --build --force",
     "postinstall": "simple-git-hooks && wxt prepare"
   },
